@@ -1,2 +1,3 @@
 # tup
-technika mikroprocesorowa
+technika mikroprocesorowa opis
+

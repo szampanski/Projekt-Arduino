@@ -1,4 +1,3 @@
 # Projekt Arduino
-technika mikroprocesorowa opis
 
-tu pojawi się opis projektu
+Tu pojawi się opis projektu

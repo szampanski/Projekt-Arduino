@@ -1,3 +1,3 @@
 # Projekt Arduino
 
-Tu pojawi siÄ™ opis projektu
+Tu pojawi siê opis projektu

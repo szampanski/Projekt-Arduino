@@ -1,3 +1,4 @@
-<h1>Wskaünik diodowy</h1>
+<h2>Wskaünik diodowy</h2>
+<h1>Opis projektu</h1>
 
 Tu pojawi siÍ opis projektu.

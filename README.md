@@ -91,3 +91,6 @@ void loop()
   }
 }
 ```
+<h2>Wideo poglądowe:</h2>
+
+https://youtu.be/7DB_rV1vsvI

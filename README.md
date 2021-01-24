@@ -11,3 +11,4 @@ Projekt polega na włączaniu kolejnych diod sterując potencjometrem. Dodatkowo
 
 <h2>Zdjęcia układu:</h2>
 ![IMG_20210124_144253](https://user-images.githubusercontent.com/75728297/105633113-13a9e880-5e57-11eb-8e0c-edef85d374a3.jpg)
+

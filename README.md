@@ -10,5 +10,6 @@ Projekt polega na włączaniu kolejnych diod sterując potencjometrem. Dodatkowo
 <ul><li>Potencjometr leżący 10k Ohm</li></ul>
 
 <h2>Zdjęcia układu:</h2>
-!https://i.imgur.com/U2jHsdu.jpg
+
+![IMG_20210124_144253](https://user-images.githubusercontent.com/75728297/105633506-4654e080-5e59-11eb-969d-774b84ef60c7.jpg)
 

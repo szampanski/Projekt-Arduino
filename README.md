@@ -1,12 +1,13 @@
-<h1>WskaŸnik diodowy</h1>
+<h1>WskaÅºnik diodowy</h1>
 <h2>Opis projektu</h2>
 
-Projekt polega na w³¹czaniu kolejnych diod steruj¹c potencjometrem. Dodatkowo, im wiêksza wartoœæ ustawiona potencjometrem, tym szybciej w³¹czona dioda miga.
+Projekt polega na wÅ‚Ä…czaniu kolejnych diod sterujÄ…c potencjometrem. Dodatkowo, im wiÄ™ksza wartoÅ›Ä‡ ustawiona potencjometrem, tym szybciej wÅ‚Ä…czona dioda miga.
 
-<h2>Lista u¿ytych elementów w projekcie:</h2>
-<ul><li>P³ytka Arduino Uno</li></ul>
+<h2>Lista uÅ¼ytych elementÃ³w w projekcie:</h2>
+<ul><li>PÅ‚ytka Arduino Uno</li></ul>
 <ul><li>Dioda LED x5</li></ul>
 <ul><li>Rezystor 1k Ohm x5</li></ul>
-<ul><li>Potencjometr le¿¹cy 10k Ohm</li></ul>
+<ul><li>Potencjometr leÅ¼Ä…cy 10k Ohm</li></ul>
 
-<h2>Zdjêcia uk³adu:</h2>
+<h2>ZdjÄ™cia ukÅ‚adu:</h2>
+![1](https://user-images.githubusercontent.com/75728297/105632729-11468f00-5e55-11eb-9828-7ed34b202a4a.jpg)
